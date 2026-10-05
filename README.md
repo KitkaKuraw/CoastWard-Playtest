@@ -29,7 +29,7 @@ Multiplayer
 All versions (Windows, Linux, Android and browser) play together. Click Multiplayer in the main menu, create an account and either join a public lobby, enter a lobby code or invite a friend.
 
 Feedback & bug reports
-Please report bugs and ideas in our Discord (or open an issue here). Helpful to include:
+Please report bugs and ideas in our [Discord](https://discord.gg/k3rZxq8FVp) (or open an issue here). Helpful to include:
 
 what you were doing and what went wrong,
 your platform (Windows / Linux / Android / browser) and the game version (shown in the main menu),
