@@ -1,4 +1,17 @@
-Coastward © 2026 KitkaKuraw. All rights reserved.
-You may download and play this game for free for personal use and playtesting.
-You may not redistribute, sell, modify or reverse-engineer it, or reuse its art, music or code.
-This build is a test version provided as-is, without warranty.
+# Coastward
+Copyright (c) 2026 Coastward. All rights reserved.
+
+You may download the game files published in this repository and play the game for free,
+for personal use and playtesting.
+
+You may not, without written permission:
+- redistribute, re-upload or sell the game or any part of it;
+- modify, decompile or reverse-engineer it, except for the mod support the game offers;
+- reuse its art, music, sounds, text or code in other works.
+
+The game is a test version, provided "as is", without warranty of any kind. In no event
+shall the authors be liable for any claim, damages or other liability arising from the use
+of the game.
+
+The game includes open-source components (such as Electron, Chromium and PixiJS) under
+their own licenses, which are included with the game files.
