@@ -1,0 +1,59 @@
+Coastward Roadmap
+What's coming next for Coastward. Plans can change, especially with your feedback from the playtests.
+
+Already in the game: generated worlds, about 40 buildings and full production chains, house tiers, ships and trade routes, villages, military and warships, pirates and natives, computer opponents, disasters and quests, online multiplayer with friends, lobbies and diplomacy, mods, cloud saves, a tutorial, sound and music, and versions for browser, Windows, Linux and Android.
+
+🔨 Now: Playtest & polish
+Playtests with the community: your feedback decides what gets tuned first
+Balancing for every difficulty level (costs, production speeds, how fast towns grow)
+Bug hunt: fixing everything you report
+Smarter computer players late in the game: spending their gold on the luxuries their richest towns need, founding more colonies, building bigger economies
+
+✅ Done: big performance boost on large maps and in long games (much smoother with many players)
+
+⚔️ Next: Military depth
+Wars won by planning, not just by the bigger army.
+
+Unit counters: cavalry, musketeers, militia and siege engines each good against something, with their strengths shown in the barracks
+Better orders: control groups (Ctrl+1–9), attack-move, stances (hold, defend, aggressive), patrol, formations and rally points
+Armies need supplies: food and weapons, plus a new weapon-making production chain
+Veteran soldiers who get tougher after surviving fights
+Naval warfare: harbour blockades, fire ships, escorts for trade ships, better landings from the sea
+Sieges: gates that open and close, repairing walls under fire, towns that surrender
+Clearer battles: units visible behind buildings, fight alerts on the minimap, an army overview
+Computer players that use all of this
+
+🎨 Next: Graphics overhaul
+Everything gets a visual upgrade, step by step:
+
+Terrain & water: richer ground, water with depth and waves, flowing rivers, mountains with snow caps
+Nature & animals: trees for every climate, crops that grow on the fields, deer, sheep, dolphins, whales and birds
+Buildings: more detailed houses with variety, working animations for every workshop and farm, walls and gates that join up properly, construction stages
+Units & people: clearer soldiers with attack animations, carriers showing what they carry, townsfolk walking the streets
+Ships: billowing sails, visible cannon fire, damage and sinking
+Effects & interface: better fire, smoke and weather, warm lights at night, new icons, a polished interface and a living main menu
+
+🏆 Later: Ranked & competitive
+Ranked matches with fair, balanced starting positions
+Game modes, each with its own ranking:
+Conquest (1v1, 2v2): last one standing
+Prosperity race: first to build the greatest city
+Domination: hold the centre of the map
+Naval skirmish: battles on small islands where ships decide
+Matchmaking, ranks from Deckhand to Admiral, and seasons with rewards
+Replays of your matches, and spectating
+Fair play: results checked by the server, a report button
+Casual games keep every option, including sandbox and co-op against computer players
+
+👤 Later: Profiles, leaderboards & cosmetics
+Profiles: crest, banner, ranks, match history and stats (biggest city, ships sunk, games won…)
+Achievements
+Leaderboards per mode and season, including a friends-only view
+Cosmetics: sails and flags, crests, building styles, uniforms. Looks only, never anything that helps you win. Many earned by playing.
+Account options: password reset, blocking and reporting players, deleting your account
+
+🚀 Later: Public release
+Release on Steam, Google Play and the web
+Free to play, never pay to win
+Signed builds, so Windows and virus scanners stop warning about the download
+💬 Ideas, wishes or bugs? Tell us on Discord. The roadmap follows what you enjoy most.
