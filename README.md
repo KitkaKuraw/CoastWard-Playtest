@@ -24,3 +24,16 @@ Follow the installer. Coastward then appears in the Start menu.
 No installing wanted? Use Coastward-<version>-portable.exe, which runs directly.
 
 Updating: run the new setup; your saves stay. Uninstalling: "Uninstall Coastward" in the Start menu (or Windows Settings → Apps). It asks whether to delete your saves and settings too.
+
+Multiplayer
+All versions (Windows, Linux, Android and browser) play together. Click Multiplayer in the main menu, create an account and either join a public lobby, enter a lobby code or invite a friend.
+
+Feedback & bug reports
+Please report bugs and ideas in our Discord (or open an issue here). Helpful to include:
+
+what you were doing and what went wrong,
+your platform (Windows / Linux / Android / browser) and the game version (shown in the main menu),
+a screenshot if you can. On desktop, Ctrl+Shift+I opens the developer console, where red error messages are especially useful.
+
+Is it safe?
+Yes. The warnings come from the game being new and not (yet) signed with a paid certificate, not from anything it does. It only reads and writes its own saves and settings, and connects to the Coastward server only for multiplayer. If your antivirus complains, you can always play the browser version instead.
