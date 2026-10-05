@@ -21,7 +21,6 @@ Get the files from the latest release (under "Assets").
 Download Coastward-Setup-<version>.exe and run it.
 Windows will probably show "Windows protected your PC". The game isn't signed with a paid certificate yet, so Windows doesn't know it. Click More info → Run anyway.
 Follow the installer. Coastward then appears in the Start menu.
-No installing wanted? Use Coastward-<version>-portable.exe, which runs directly.
 
 Updating: run the new setup; your saves stay. Uninstalling: "Uninstall Coastward" in the Start menu (or Windows Settings → Apps). It asks whether to delete your saves and settings too.
 
