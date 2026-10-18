@@ -11,7 +11,8 @@ by sea and defend your coast. Play alone against computer opponents or with frie
 
 **[⬇ Download the latest version](../../releases/latest)** &nbsp;·&nbsp;
 **[▶ Play in the browser](https://coastward.vercel.app)** (nothing to install) &nbsp;·&nbsp;
-**[💬 Discord](https://discord.gg/gaDFAjnrgX)**
+**[💬 Discord](https://discord.gg/gaDFAjnrgX)** &nbsp;·&nbsp;
+**[🗺 What's next](ROADMAP.md)**
 
 ---
 
