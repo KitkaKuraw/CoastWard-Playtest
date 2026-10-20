@@ -3,13 +3,33 @@
 What's coming next for Coastward. Plans can change, especially with your feedback from the
 playtests. Order: **Now → Next → Later**.
 
-**Already in the game:** generated worlds, about 40 buildings and full production chains,
+**Already in the game:** generated worlds of eight kinds, about 40 buildings and full production chains,
 house tiers, ships and trade routes, villages, military and warships, pirates and natives,
 computer opponents, disasters and quests, online multiplayer with friends, lobbies and
 diplomacy, mods, cloud saves, a tutorial, sound and music, and versions for browser,
 Windows, Linux and Android.
 
 ---
+
+## ✅ New in 0.24: Kinds of worlds
+
+- **Choose your world** when starting a game, each with its own challenge and a little map to
+  pick it by: continents, a sea of islands, one huge continent, the frozen north, a river
+  delta, a rainforest coast, a chain of volcanoes, or land only. Or let "Surprise me" pick
+- **Land only:** no sea. Start on foot, choose where to settle, sail small ships on the lakes
+  and rivers; the free trader comes by ox cart, and there are no pirates
+- **Rivers and lakes:** wide rivers and lakes in the delta and on land only, every ship sails
+  rivers two tiles wide or more, and towns can be founded on river banks
+- **Danger and reward:** rich soil round the volcanoes (farms bring in 75% more), but they
+  erupt; hurricanes on tropical coasts; rivers that flood in spring and leave the land fertile;
+  a map overlay that shows it all
+- **The dike:** a new building that keeps the houses on a river's bank dry when it floods
+- **All four climates on every world:** tropical crops and the cold's riches are always
+  somewhere to be found
+- **By sea:** ships come to the shore to take soldiers aboard, and the computer players'
+  invasions now really come (watch your coasts!)
+- Also: drawbridges on canals, big ships through wide canals, trading posts and depots you
+  can upgrade, carriers that go from the nearest store, and many fixes
 
 ## ✅ New in 0.23: A new look and a new interface
 
@@ -35,17 +55,6 @@ Windows, Linux and Android.
   their richest towns need, founding more colonies, building bigger economies
 - ✅ *Done:* big performance boost on large maps and in long games (much smoother with
   many players)
-
-## 🌍 Next: Kinds of worlds
-
-- **Choose your world** when starting a game: a sea of small islands, one huge continent, the
-  frozen north, a river delta, a rainforest coast, a chain of volcanoes, each with its own
-  challenge
-- **Land-only worlds:** no seagoing ships, maybe river boats only; choose where to put your
-  first warehouse
-- **Rivers and lakes:** long rivers carrying trade deep inland, river ports and lakes
-- **Danger and reward:** the richest land where the danger is (volcano islands, hurricane
-  coasts, rivers that flood in spring)
 
 ## 👾 Next: The pixel-art look
 

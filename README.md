@@ -18,8 +18,10 @@ by sea and defend your coast. Play alone against computer opponents or with frie
 
 ## What's in the game
 
-- **A new world every game:** generated continents, rivers, mountains and climates, with
-  fog of war to explore
+- **A new world every game,** of eight kinds to choose from (continents, a sea of islands,
+  the frozen north, a river delta, a chain of volcanoes, land only and more): rivers and
+  lakes, mountains, all four climates and their dangers (eruptions, hurricanes, spring
+  floods), with fog of war to explore
 - **Build and grow:** about 40 buildings, production chains from wood and fish to cloth, rum
   and jewellery, and houses that move up through the tiers as their needs are met
 - **Ships and trade:** trade routes between your settlements, a free trader to buy from
