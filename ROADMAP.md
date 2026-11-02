@@ -56,11 +56,6 @@ Windows, Linux and Android.
 - ✅ *Done:* big performance boost on large maps and in long games (much smoother with
   many players)
 
-## 👾 Next: The pixel-art look
-
-The same overhaul again in crisp pixel art. Both looks stay in the game, and you pick the one
-you like in the settings.
-
 ## 🏭 Next: Deeper production
 
 More to make and more to plan for (ideas being weighed, your wishes welcome):
@@ -91,6 +86,11 @@ Wars won by planning, not just by the bigger army.
 - **Clearer battles:** units visible behind buildings, fight alerts on the minimap, an
   army overview
 - **Computer players** that use all of this
+
+## 👾 Later: The pixel-art look
+
+After the production and military updates: the same overhaul again in crisp pixel art. Both
+looks stay in the game, and you pick the one you like in the settings.
 
 ## 🏆 Later: Ranked & competitive
 
